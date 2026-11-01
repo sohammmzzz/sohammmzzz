@@ -1,5 +1,5 @@
 <a href="https://sohamdas.vercel.app/">
-  <img src="./assets/hero.svg" width="100%" alt="Soham Das, Lead AI Engineer. I make machines that listen, see, and answer back." />
+  <img src="./assets/banner.svg" width="100%" alt="Soham Das, Lead AI Engineer. I make machines that listen, see, and answer back." />
 </a>
 
 <br />

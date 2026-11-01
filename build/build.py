@@ -190,7 +190,7 @@ def hero():
     b.append(f'<g class="rise" {delay(2)}><text x="{x}" y="252" class="t" font-size="22" fill="{CREAM}" fill-opacity=".8">I make machines that listen, see, and answer back.</text></g>')
     b.append(wave(h - 34, "hero", amp=4, opacity=.22))
     b.append("</g>")
-    write("hero.svg", svg(h, "\n".join(b), "Soham Das, Lead AI Engineer. I make machines that listen, see, and answer back."))
+    write("banner.svg", svg(h, "\n".join(b), "Soham Das, Lead AI Engineer. I make machines that listen, see, and answer back."))
 
 
 def button(fname, label, filled, width=None):
